@@ -6,5 +6,6 @@ Indonesian Banknote Value Recognizer is a computer vision application that was b
 <img width="330" src="https://user-images.githubusercontent.com/84224607/221841343-d45b47c8-5733-45e9-9f5f-415498e88acf.jpg">
 
 ## Contributors
+- [Nadya Tyandra](https://www.linkedin.com/in/nadyatyandra/) - Machine Learning Engineer
 - [Randy Antonio](https://www.linkedin.com/in/randy-antonio/) - Machine Learning Engineer
 - [Edwin Ario Abdiwijaya](https://www.linkedin.com/in/edwinarioabdiwijaya/) - Machine Learning Engineer
